@@ -1,6 +1,20 @@
 {
-  "category": "Divertissement",
-  "price": [
+  "id": 1,
+  "nom": "Divertissement",
+  "image": "Divertissement",
+  "chaine": [
+    {
+      "chaine": "monatv",
+      "url": "Sayings of the Century",
+      "image": "Sayings of the Century",
+    }
+  ]
+},
+{
+  "id": 2,
+  "nom": "Jeunesse",
+  "image": "Divertissement",
+  "chaine": [
     {
       "chaine": "monatv",
       "url": "Sayings of the Century",
